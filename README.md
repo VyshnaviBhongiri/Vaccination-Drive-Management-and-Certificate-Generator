@@ -51,6 +51,7 @@ A full-stack web application that allows citizens to book vaccination slots, hea
 ---
 
 ## 📂 Project Structurebackend/
+
 │
 ├── routes/
 │ ├── administer.js
