@@ -50,39 +50,6 @@ A full-stack web application that allows citizens to book vaccination slots, hea
 
 ---
 
-## 📂 Project Structurebackend/
-
-│
-├── routes/
-│ ├── administer.js
-│ ├── auth.js
-│ ├── dashboard.js
-│ ├── register.js
-│ └── verify.js
-│
-├── utils/
-│ ├── generatePDF.js
-│ └── generateQR.js
-│
-├── server.js
-├── package.json
-│
-frontend/
-│
-├── src/
-│ ├── pages/
-│ │ ├── Administer.js
-│ │ ├── Certificate.js
-│ │ ├── Dashboard.js
-│ │ ├── Login.js
-│ │ ├── Register.js
-│ │ └── Scanner.js
-│ │
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-│
-└── package.json
 
 Backend Setup
 cd backend
